@@ -1,0 +1,7 @@
+{
+    "EntryPoint": "NameList.Main",
+	"IsEnabled": true,
+    "IsDevelopment": true,
+    "Name": "Name List",
+    "Project": "NameList.csproj"
+}
